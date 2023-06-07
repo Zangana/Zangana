@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zangana from Kurdistan and I have BSc in Computer Science at James Madison University 2019 and MSc in Information Technology management University of Kurdistan Hewler 2021. 
-- 👀 I’m interested in APIs and security. 
-- 🌱 I’m currently learning Dot net core wep api
+- 👀 I’m interested in APIs. 
+- 🌱 I’m currently learning Blazor Webassembly.
 - 📫 How to reach me message me here. 
 
 <!---
